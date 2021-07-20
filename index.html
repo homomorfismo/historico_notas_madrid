@@ -16,10 +16,18 @@
     </script>
   </head>
   <body>
-    <nav class='navbar navbar-expand-lg navbar-light bg-light'>
-      <div class='container-fluid'>
-        <div class='navbar-brand'>
-          Historico de notas de corte de Madrid
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container-fluid">
+        <div class="navbar-brand user-select-none">Histórico de notas de corte de Madrid</div>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="">Repositorio</a>
+            </li>
+          </ul>
         </div>
       </div>
     </nav>
@@ -49,7 +57,7 @@
                     options += '<option value="' +k + '">'+grados[k]+'</option>';
                   }
                   gradoslist.innerHTML = options;
-                  document.getElementById('plot_container').innerHTML = "<img class='img-fluid' src='"+flag+"/"+grados[0]+".svg'></img>";
+                  document.getElementById('plot_container').innerHTML = "<img class='img-fluid' src='plots/"+flag+"/"+grados[0]+".svg'></img>";
                 });
             </script>
             <script>
@@ -65,11 +73,11 @@
       </div>
       <div class="container text-center" id ='plot_container'>
         <script>
-          document.getElementById('plot_container').innerHTML = "<img class='img-fluid' src='"+flag+"/"+grados[0]+".svg'></img>";
+          document.getElementById('plot_container').innerHTML = "<img class='img-fluid' src='plots/"+flag+"/"+grados[0]+".svg'></img>";
           
           gradoslist.addEventListener('change', function(){
             //document.getElementById('plot_container').innerHTML = "<iframe class='ratio ratio-16x9' style='width:100%' src='"+grados[this.value]+"' frameborder='0'></iframe>";
-            document.getElementById('plot_container').innerHTML = "<img class='img-fluid' src='"+flag+"/"+grados[this.value]+".svg'></img>";
+            document.getElementById('plot_container').innerHTML = "<img class='img-fluid' src='plots/"+flag+"/"+grados[this.value]+".svg'></img>";
 
           });
         </script>
