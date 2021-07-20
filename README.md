@@ -8,4 +8,4 @@ Las notas de corte se han extraído de la [página web de la UC3M](https://www.u
 Los gráficos de las notas se han creado en R con la libreria `ggplot2`.
 
 ### Página web
-Se pueden ver los gráficos de forma más cómoda en [esta página](homomorfismo.github.io/historico_notas_madrid).
+Se pueden ver los gráficos de forma más cómoda en [esta página](https://homomorfismo.github.io/historico_notas_madrid/).
