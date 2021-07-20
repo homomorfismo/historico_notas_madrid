@@ -1,0 +1,58 @@
+codigo,grado,10/11,11/12,12/13,13/14,14/15,15/16,16/17,17/18,18/19,19/20,20/21,21/22
+200,Ciencias y lenguas de la Antigüedad,5,5,5,5,5,5,5,5,5,5,5,5
+201,Estudios de Asia y África-Árabe,5,6.202,5,5,5.311,5,5,5,5,5,5,5
+202,Estudios de Asia y África-Chino,6.345,7.872,7.41,8.4,7.217,7.5,6.701,7.267,8.544,8.738,9.804,9.18
+203,Estudios de Asia y África-Japonés,7.47,8.58,7.334,8.71,8.957,9.146,9.075,9.401,9.757,10.147,10.472,10.361
+204,Estudios Hispánicos: Lengua Española y sus Literaturas,5,5,5,5,5,5,5,5,5,5,5,5
+205,Estudios Ingleses,5.614,6.746,5.104,6.332,6.34,5.692,5.625,5,5.243,5.518,6.26,6.315
+206,Filosofía,5,5,5,5,5,5,5,6.411,6.875,7.277,7.831,8.286
+207,Historia,5,5,5,5,5,5,5,5,5,5,5,5
+208,Historia del Arte,5,5,5,5,5,5,5,5,5,5,6.403,5.927
+209,Historia y Ciencias de la Música y Tecnología Musical,6.06,5,5,5.279,5,5,5.62,6.44,7.485,8.622,10.084,9.561
+210,"Lenguas Modernas, Cultura y Comunicación-Español",6.52,7.301,7.13,6.95,8.16,7.033,6.822,6.881,7.889,8.152,6.291,7.71
+211,"Lenguas Modernas, Cultura y Comunicación-Francés",6.17,7.432,6.2,7.075,6.752,6.562,6.346,5.528,5,5,5,5
+212,"Lenguas Modernas, Cultura y Comunicación-Inglés",8.254,9.443,9.778,10.699,9.848,10.414,10.053,10.515,10.692,9.753,10.725,10.534
+213,Traducción e Interpretación (Francés),5,5,5,6.39,6.374,5,5,5,5,7.3,9.09,9.543
+214,Traducción e Interpretación (Inglés),9.249,10.415,10.566,10.721,10.544,10.532,9.707,9.016,9.94,11.575,11.559,12.026
+220,Biología,7.732,8.443,8.561,9.378,10.074,10.092,10.167,10.261,10.231,10.422,10.883,11.161
+221,Bioquímica,11.219,11.722,11.906,12.234,12.443,12.481,12.555,12.666,12.546,12.679,13.076,13.114
+222,Ciencias Ambientales,7.079,7.15,6.45,7.133,7.451,7.576,7.95,7.436,6.776,8.222,8.736,9.521
+223,Ciencia y Tecnología de los Alimentos,7.124,7.444,6.864,7.147,7.772,7.825,7.553,7.815,7.338,8.385,9.796,10.027
+224,Física,5,6.247,8.721,10.001,10.976,11.667,12.286,12.628,12.783,12.794,13.075,13.157
+225,Matemáticas,5,5,5,6.565,7.233,9.4,11.278,12.026,12.05,12.571,12.928,12.866
+226,Química,5.92,6.26,6.64,7.295,7.285,8.386,9.113,9.357,9.625,10.379,10.857,11.421
+230,Enfermería,10.68,10.09,10.06,10.196,10.517,10.701,10.828,11.271,11.286,11.421,12.33,12.743
+235,Medicina,12.036,12.308,12.424,12.558,12.652,12.819,12.843,13.11,13.124,13.075,13.426,13.463
+236,Nutrición Humana y Dietética,8.56,8.722,8.483,8.649,9.147,9.606,9.376,9.877,9.908,10.018,10.9,11.438
+237,Psicología,8.235,8.375,8.032,8.357,8.804,9.136,9.372,9.475,9.648,9.886,10.884,11.102
+250,Ingeniería Informática,5,5.965,6.14,6.597,6.492,7.308,7.542,8.441,8.746,9.386,10.821,11.109
+251,Ingeniería Química,6.845,7.018,7.815,8.008,7.896,7.836,8.344,7.347,7.954,9.031,9.789,10.663
+252,Ingeniería de Tecnologías y Servicios de Telecomunicacion,7.382,7.7,7.826,7.794,8.058,8.446,6.847,7.515,8.399,8.62,9.989,10.194
+260,Administración y Dirección de Empresas,7.776,7.921,8.126,8.583,8.845,8.539,8.69,9.23,9.79,9.634,10.424,10.931
+261,Ciencia Política y Administración Pública,6.636,6.908,6.624,6.861,6.849,6.888,6.882,7.667,8.668,9.2,9.946,9.971
+262,Ciencia de la Actividad Física y del Deporte,9.44,9.13,9.39,9.665,10.049,9.85,9.91,9.91,10.279,10.35,11,11.325
+263,Derecho,6.054,6.356,6.292,7.304,7.608,7.821,7.807,8.649,9.5,9.539,10.108,10.65
+264,Economía,5.817,6.4,6.694,7.493,7.38,7.762,7.816,8.267,9.225,9.107,10.106,10.282
+265,Economía y Finanzas,7.607,9.268,10.212,10.718,10.936,11.001,10.989,11.165,11.281,11.443,11.867,12.037
+266,Geografía y Ordenación del Territorio,5,5.2,5,5,5,5,5,5,5,5,5,5
+267,Gestión Aeronáutica,8.26,9.01,9.399,9.256,9.319,9.553,8.516,9.436,9.821,9.893,10.349,11.161
+268,Maestro en Educación Infantil,7.283,7.14,6.64,6.918,7.132,6.942,7.1,7.166,7.55,7.93,8.723,9.267
+269,Maestro en Educación Primaria,6.878,7.001,6.001,6.982,7.09,6.403,7.07,7.361,7.873,8.389,9.552,9.963
+270,Turismo,6.03,6.491,6.69,6.68,7.106,6.264,6.667,6.431,7.025,7.308,7.466,6.068
+280,Derecho - Administración y Dirección de Empresas,9.754,10.396,10.667,10.694,10.818,10.758,10.712,10.992,11.346,11.254,11.782,12.067
+281,Derecho - Ciencia Política y Administración Pública,8.499,9.01,9.225,9.042,9.5,8.406,9.066,9.691,10.254,10.467,11.027,11.075
+282,Ingeniería Informática - Matemáticas,8.035,10.608,11.178,9.732,11.153,11.861,12.399,12.926,12.834,13.2,13.571,13.514
+215,Antropología Social y Cultural,NA,5,5,5,5,5,5.272,5,5,5,6.239,5
+285,"Filosofia, Política y Economía",NA,NA,NA,10.718,11.85,12.056,12.361,12.298,12.193,12.382,12.756,12.907
+216,Estudios Internacionales,NA,NA,NA,NA,6.557,8.577,9.422,10.043,11.109,10.826,11.299,11.492
+283,Ciencias Ambientales - Geografía y Ordenación del Territorio,NA,NA,NA,NA,NA,7.075,8.704,8.15,8.188,7.939,8.684,8.874
+284,Historia del Arte - Ciencias y Lenguas de la Antigüedad,NA,NA,NA,NA,NA,6.222,8.126,7.536,6.811,8.424,7.97,9.136
+286,Filosofía - Historia y CC. de la Música y Tecnología Musical,NA,NA,NA,NA,NA,NA,5.975,6.755,9.323,8.39,9.56,10.716
+287,Maestro en Educación Infantil - Maestro en Educación Primaria,NA,NA,NA,NA,NA,NA,9.778,10.386,9.507,9.821,10.741,11.154
+249,Ingeniería Informática-Bilingüe,NA,NA,NA,NA,NA,NA,NA,NA,9.169,9.486,11.35,NA
+248,Programa Académico en Ingeniería Informática,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.923,NA,11.548
+253,"Programa Académico en Ingeniería de Tecnologías y Servicios deTelecomunicación",NA,NA,NA,NA,NA,NA,NA,NA,NA,8.226,9.886,10.139
+247,Ingeniería Biomédica,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12.951,12.994
+228,"Nutrición Humana y Dietética - Ciencia y Tecnología de losAlimentos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12.406,12.548
+227,Ciencias,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12.024,11.502
+217,"Ciencia, Tecnología y Humanidades",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5

@@ -1,0 +1,54 @@
+"codigo","grado","10/11","11/12","12/13","13/14","14/15","15/16","16/17","17/18","18/19","19/20","20/21","21/22"
+400,"Estudios Hispánicos",5,5,5,5,5,5,5,5,5,5,5,5
+401,"Estudios Ingleses",6.219,6.711,6.401,6.253,7,7.056,6.594,6.844,5.536,7.884,6.257,7.375
+402,"Historia",5,5,5,5,5,5,5,5,5,5,5,5
+403,"Humanidades",5,5,5,5,5,5,5,5,5,5,5,5
+404,"Lenguas Modernas y Traducción",7.431,8.209,8.907,9.19,9.175,9.946,9.734,10.099,8.27,10.24,10.548,9.611
+410,"Biología",7.493,7.982,8.075,8.75,9.144,9.44,9.217,9.416,9.55,9.936,10.6,11.093
+411,"Ciencias Ambientales",6.139,6.258,5,6.14,6.13,6.275,6.339,5,5.121,7.048,7.425,8.276
+412,"Química",5.165,5.625,5.279,6.016,6.357,6.964,7.673,6.77,8.17,9.156,9.8,10.647
+420,"Biología Sanitaria",10.999,11.285,11.465,11.65,11.847,11.992,12.014,12.296,12.2,12.408,12.768,12.905
+421,"Ciencias de la Actividad Física y del Deporte",8.551,8.89,8.933,9.18,9.67,9.404,9.15,9.496,10.08,10.064,10.8,11.011
+422,"Enfermería",9.78,9.925,9.85,9.833,9.906,10.151,10.273,10.65,10.58,10.882,11.668,12.289
+423,"Enfermería (Guadalajara)",9.56,9.636,9.442,9.526,9.449,9.77,9.868,10.13,10.169,10.534,11.214,11.994
+424,"Farmacia",8.819,8.874,8.401,8.927,9.538,10.075,9.956,10.259,10.324,10.46,11.222,11.832
+425,"Fisioterapia",10.21,10.429,10.424,10.843,10.914,11.075,11.111,11.28,11.22,11.386,11.42,11.853
+426,"Medicina",11.862,12.125,12.229,12.396,12.422,12.543,12.575,12.747,12.811,12.918,13.288,13.357
+440,"Fundamentos de Arquitectura y Urbanismo",10.071,9.74,9.157,8.517,8.572,8.269,5.267,6.203,7.198,7.2,8.828,10.089
+441,"Ingeniería de Computadores",5,5,5,5,5,5,5.553,5.982,6.849,6.971,7.504,8.64
+442,"Arquitectura Técnica y Edificación (Guadalajara)",6.225,5.099,5,5,5,5,5,5,5,5,5,5
+443,"Ingeniería Electrónica y Automática Industrial",6.683,7.454,8.057,8.367,8.05,8.465,8.392,8.453,9.072,7.539,8.36,9.491
+444,"Ingeniería Electrónica de Comunicaciones",5,5.09,5.306,5.5,5,5,5,5,5.808,5.774,5,6.409
+445,"Ingeniería Informática",5,5.88,5.764,5.978,6.43,6.797,6.932,8.103,8.551,9.083,10.568,10.499
+446,"Ingeniería en Tecnologías de Telecomunicación",5,5,5.2,5.818,5,5,5,5,6.312,6.692,6.73,7.856
+447,"Ingeniería en Sistemas de Telecomunicación",5,5,5.42,5.73,5,5,5,5,5.92,6.043,5,6.272
+448,"Ingeniería Telemática",5,5,5,5.214,5,5,5,5,5.747,5.977,5,6.174
+449,"Ingeniería en Sistemas de Información",5,5,5,5,5,5,5,5.057,5.92,6.472,5.983,7.085
+460,"Administración y Dirección de Empresas",6.178,6.869,6.626,7.219,7.5,7.152,6.95,7.141,8.127,8.428,9.23,10.193
+461,"Administración y Dirección de Empresas (Guadalajara)",5,6,5.54,5.965,5.599,5,5.686,5,5.77,6.76,7.285,8.73
+463,"Finanzas",5,5.78,5.7,5.75,5,5.082,5.5,5,5.725,6.881,7.15,8.31
+464,"Derecho",5,5.71,5.769,5.806,5.7,5.679,5.922,6.018,6.694,7.125,7.786,9.052
+465,"Economía",5,5.88,5.789,5.863,5.428,5.701,5.999,5.192,6.343,7.036,8.08,9.153
+466,"Economía y Negocios Internacionales",5.536,6.95,7.71,8.446,9.2,9.396,9.472,9.879,10.41,10.586,11.275,11.644
+468,"Magisterio de Educación Infantil (Guadalajara)",6.299,6.644,5.836,6.106,6.5,6.14,6.531,6.69,7.01,7.43,8.12,8.725
+469,"Magisterio de Educación Primaria (Guadalajara)",6.371,6.78,5.649,6.232,6.491,5,6.135,6.82,6.927,7.55,8.671,9.21
+470,"Turismo (Guadalajara)",5,5.71,5.45,5.544,5.85,5,5,5,5,5,5.069,5
+480,"Derecho - Administración y Dirección de Empresas",7.57,8.89,8.503,8.64,8.874,8.289,7.169,8.561,9.418,9.972,10.257,11.156
+405,"Lenguas Modernas y Traducción (Guadalajara)",NA,6.116,6.99,7.05,6.995,7.417,6.569,7.449,5.46,9.048,5,5
+462,"Comunicación Audiovisual (Guadalajara)",NA,7.508,7.481,7.474,7.83,7.775,8.075,8.38,8.972,8.961,9.432,9.825
+481,"Turismo - Admón. y Dirección de Empresas (Guadalajara)",NA,6.929,7.529,7.708,8.296,7.22,7.132,5.238,7.657,8.282,7.235,7.904
+482,"Humanidades - Magisterio en Educación Primaria",NA,NA,NA,NA,6.97,6.918,7.811,9.757,8.23,8.18,9.139,9.71
+467,"Magisterio de Educación Primaria (Bilingüe) (Inglés) (Guadalajara)",NA,NA,NA,NA,NA,NA,5,5,7.846,5,7.207,7.164
+483,"Magisterio de Educación Infantil - Magisterio de Educación Primaria (Guadalajara)",NA,NA,NA,NA,NA,NA,7.543,9.108,9.508,9.544,10.444,10.777
+413,"Criminalística: Ciencias y Tecnologías Forenses",NA,NA,NA,NA,NA,NA,NA,9.491,11.107,11.65,12.086,12.616
+406,"Estudios Hispánicos + Reserva de plaza en Master Universitario",NA,NA,NA,NA,NA,NA,NA,NA,11.718,11.803,12.916,12.804
+407,"Humanidades + Reserva de plaza en Master Universitario",NA,NA,NA,NA,NA,NA,NA,NA,7.19,7.973,9.673,9.499
+408,"Lenguas Modernas y Traducción + Reserva de plaza en Master Universitario",NA,NA,NA,NA,NA,NA,NA,NA,12.275,13.436,13.828,13.739
+409,"Lenguas Modernas y Traducción (Guadalajara) + Reserva de plaza en Master Universitario",NA,NA,NA,NA,NA,NA,NA,NA,13.127,13.022,13.117,13.164
+414,"Ciencias Ambientales + Reserva de plaza en Master Universitario",NA,NA,NA,NA,NA,NA,NA,NA,7.221,9.464,9.01,10.518
+450,"Arquitectura Técnica y Edificación + Reserva de plaza en Master Universitario",NA,NA,NA,NA,NA,NA,NA,NA,7.079,8.43,8.641,9.976
+451,"Ingeniería en Tecnologías de Telecomunicación + Reserva de plaza en Master Universitario",NA,NA,NA,NA,NA,NA,NA,NA,7.904,9.994,10.543,9.043
+452,"Ingeniería en Tecnologías Industriales",NA,NA,NA,NA,NA,NA,NA,NA,NA,8.849,10.539,10.974
+415,"Física e Instrumentación Espacial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12.652
+484,"Ingeniería Informática - Administración y Dirección de Empresas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11.326
+485,"Ingeniería Electrónica de Comunicaciones - Ingeniería Electrónica y Automática Industrial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7

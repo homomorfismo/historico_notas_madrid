@@ -1,0 +1,6 @@
+select {
+    display: inline !important;
+    width: auto !important;
+    max-width: -moz-available;
+    max-width: -webkit-fill-available;
+}

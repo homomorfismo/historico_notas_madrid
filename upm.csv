@@ -1,0 +1,67 @@
+codigo,grado,10/11,11/12,12/13,13/14,14/15,15/16,16/17,17/18,18/19,19/20,20/21,21/22
+300,Fundamentos de la Arquitectura,10.789,10.676,10.464,9.978,10.066,9.8,8.629,9.268,9.518,9.65,10.91,11.365
+301,Ingeniería Aeroespacial,10.248,11.184,11.386,11.238,11.35,11.347,11.461,11.709,11.678,11.733,12.293,12.362
+302,Ingeniería Agrícola,5,5,5,5,5,5,5,5,5,5,5,5
+303,Ingeniería Agroambiental,5,5,5,5,5,5,5,5,5,5,5,5
+304,Ingeniería Alimentaria,5,5,5,5,5,5,5,5,5,5,5,5
+305,Ingeniería Civil,5,5,5,5,5,5,5,5,NA,NA,NA,NA
+306,Ingeniería Civil y Territorial,10.046,9.208,7.82,5.715,5.55,5,5,5,5,5,5,6.218
+307,Ingeniería de Computadores,5,5,5,5,5.228,5.736,6,6.558,7.289,7.781,8.773,9.384
+308,Edificación,5,5,5,5,5,5,5,5,5,5,5,5
+309,Ingeniería de la Energía,9.431,10.14,10.567,10.169,10.099,9.051,8.318,8.245,8.568,9.342,10.55,11.017
+310,Ingeniería de Materiales,7.4,7.915,8.49,8.768,9.229,8.65,6.028,6.99,5,5.449,6.338,8.083
+311,Ingeniería de Sistemas de Telecomunicación,7.76,8.031,8.244,7.984,5,5,6.55,7.18,8.039,8.247,9.666,9.902
+312,Ingeniería de Sonido e Imagen,7.964,7.912,7.536,7.772,7.585,7.733,6.744,7.232,7.33,7.432,8.453,8.794
+313,Ingeniería de Tecnologías y Servicios de Telecomunicación,7.728,8.542,9.408,8.738,9.312,8.761,8,8.44,9.149,9.067,10.261,10.45
+314,Ingeniería del Medio Natural,6.906,7.551,7.471,6.692,5.872,5,5.07,5,5,5,5,5
+315,Ingeniería del Software,5,5,5.43,5.701,5.984,6.67,6.803,7.678,8.527,8.935,10.043,10.327
+316,Ingeniería Eléctrica,8.069,8.135,8.378,8.343,8.494,8.55,8.27,8.431,8.805,8.728,9.384,10.141
+317,Ingeniería Electrónica de Comunicaciones,6.24,6.66,6.69,6.69,6.544,6.272,6.129,5.955,6.63,6.817,7.335,8.623
+318,Ingeniería Electrónica Industrial y Automática,8.93,9.356,9.733,9.691,9.919,10.207,10.278,10.499,10.336,10.485,11.143,11.12
+319,Ingeniería en Diseño Industrial y Desarrollo de Producto,9.922,10.255,10.664,10.69,11.144,11.343,11.579,11.711,11.743,12.029,12.719,12.807
+320,"Ingeniería en Tecnología Minera / Ingeniería Geológica / Ingeniería enRecursos Energéticos, Combustibles y Explosivos",5.542,6.83,6.518,5,5,5,5,5,5,5,5,5
+321,Ingeniería en Tecnologías Industriales,10.423,11.19,11.402,11.45,11.7,11.639,11.203,11.424,11.276,11.382,12.243,12.266
+322,Ingeniería Forestal,5,5,5,5,5,5,5,5,5,5,5,5
+323,Ingeniería Geomática,5,5,5,5,5,5,5,5,5,5,5,5
+324,Ingeniería Informática,5,5,5,5,6.052,6.561,6.906,8.318,8.778,9.418,10.685,10.765
+325,Arquitectura Naval/Ingeniería Marítima,7.83,8.483,8.708,5,9.083,8.799,7.956,8.756,8.627,8.464,9.977,10.039
+326,Ingeniería Mecánica,9.505,10.238,10.356,10.416,10.632,10.789,10.724,10.801,10.771,11.059,11.881,11.968
+327,Ingeniería Química (Castellana),8.769,9.482,10.44,10.645,11.015,10.711,10.379,10.408,10.708,10.993,11.387,11.754
+328,Ingeniería Química (Embajadores),7.043,7.666,7.907,8.251,9.372,9.008,8.547,8.156,8.526,9.111,9.831,10.618
+329,Ingeniería Telemática (Campus Sur),6.236,6.42,6.614,6.621,6.3,5,5.832,5.666,6.85,7.168,8.079,9.079
+330,Ciencias Agrarias y Bioeconomía,5,5,5,5,5,5,5,5,5,5,5,5
+331,Matemáticas e Informática,5,7.77,5,5,5.589,6.461,8.517,10.676,11.438,11.989,12.541,12.517
+332,Tecnologías para la Sociedad de la Información,5,5,5,5,5,5,5,5,6.453,7.326,7.982,9.064
+350,Ciencias de la Actividad Física y del Deporte (INEF),7.998,8.34,8.833,9.032,8.38,8.84,9.03,9.066,9.27,8.55,9.931,9.977
+333,Biotecnología,NA,11.619,11.971,12.153,12.29,12.491,12.481,12.797,12.666,12.914,13.295,13.206
+334,Ingeniería Biomédica,NA,11.169,11.742,11.765,12.048,12.119,12.075,12.473,12.494,12.51,13.022,13.056
+335,Sistemas de Información,NA,NA,NA,NA,5,5,5.356,5.672,6.308,6.911,7.24,8.245
+360,"Ingeniería en Diseño Industrial y Desarrollo de Producto y en IngenieríaMecánica",NA,NA,NA,NA,11.858,12.411,12.812,12.95,12.809,12.901,13.27,13.225
+336,Ingeniería de Organización,NA,NA,NA,NA,NA,10.969,11.131,11.811,11.769,12.125,12.677,12.845
+337,Ingeniería en Tecnologías Ambientales,NA,NA,NA,NA,NA,5,5,5,5,5,5,5
+361,Edificación y en Administración y Dirección de Empresas,NA,NA,NA,NA,NA,5,5.95,5,5,5,5.347,7.3
+362,Ingeniería Eléctrica y en Ingeniería Electrónica Industrial y Automática,NA,NA,NA,NA,NA,11.156,11.339,11.608,11.533,10.1,11.521,11.7
+363,"Ingeniería de Computadores y en Tecnologías para la Sociedad de laInformación",NA,NA,NA,NA,NA,NA,5.325,6.79,7.242,7.671,8.768,9.235
+364,Ingeniería del Software y en Tecnologías para la Sociedad de la Informació,NA,NA,NA,NA,NA,NA,6.682,8.006,9.7,10.267,10.464,10.534
+365,Ingeniería Informática y en Administración y Dirección de Empresas,NA,NA,NA,NA,NA,NA,9.733,10.885,11.311,11.549,12.08,12.403
+366,Ingeniería Civil y Territorial y en Administración y Dirección de Empresas,NA,NA,NA,NA,NA,NA,NA,5,7.01,9.133,10.318,10.473
+370,Edificación + Máster Univ. en Gestión en Edificación,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA
+338,Gestión y Operaciones del Transporte Aéreo,NA,NA,NA,NA,NA,NA,NA,NA,9.6,10.398,11.719,11.806
+375,"Ingeniería Civil y Territorial + Master Univ. en Ingeniería de Caminos,Canales y Puertos",NA,NA,NA,NA,NA,NA,NA,NA,5,8.022,10.31,11.025
+339,Ingeniería de las Tecnologías de la Información Geoespacial,NA,NA,NA,NA,NA,NA,NA,NA,5,5,5,5
+372,Ingeniería del Software + Master Univ. en Ingeniería del Software,NA,NA,NA,NA,NA,NA,NA,NA,5.459,8.352,10.068,10.653
+373,Ingeniería del Software + Master Univ. en Desarrollo de Aplicaciones y Servicios para Dispositivos Móviles,NA,NA,NA,NA,NA,NA,NA,NA,6.255,8.15,9.522,NA
+371,Ingeniería Forestal + Master Univ. en Ingeniería de Montes,NA,NA,NA,NA,NA,NA,NA,NA,5,5,5.471,7.304
+376,Ingeniería Informática + Máster Univ. en Ingeniería Informática,NA,NA,NA,NA,NA,NA,NA,NA,9.298,10.675,11.676,11.75
+377,"Ingeniería de Tecnologías y Servicios de Telecomunicación + MásterUniversitario en Ingeniería de Telecomunicación (programa académico)",NA,NA,NA,NA,NA,NA,NA,NA,10.829,11.718,12.4,12.103
+374,Ingeniería Telemática + Máster Univ. en Internet de las Cosas,NA,NA,NA,NA,NA,NA,NA,NA,5,6.932,7.899,NA
+367,Ingeniería Electrónica de Comunicaciones y en Ingeniería Telemática,NA,NA,NA,NA,NA,NA,NA,NA,8.148,8.483,9.367,9.724
+378,Ingeniería Agrícola + Máster U. en Ingeniería Agronómica,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,6.126
+380,"Ingeniería en Tecnología  Minera/ Íng. Geológica/ Ing. en Recursos Ener. +Máster Univ. en Ing. de Minas",NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5.301,7.2
+379,Ingeniería Agroambiental + Máster Univ. en Ingeniería Agronómica,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,5.532
+343,Ciencia de Datos e Inteligencia Artificial (Campus de Montegancedo),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11.914,12.531
+344,Ciencia de Datos e Inteligencia Artificial (Campus Sur),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11.761,12.478
+341,Ingeniería y Sistemas de datos (Campus Moncloa),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11.643,12.127
+342,Ingeniería y Sistemas de datos (Campus Sur),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.918,11.622
+345,Matemáticas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12.622
+368,"Interuniversitario en Diseño de Moda (UPM) y Comercio (UCM) CampusSur/ Madrid",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.411
